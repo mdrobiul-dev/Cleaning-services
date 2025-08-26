@@ -1,0 +1,504 @@
+@media (min-width: 1400px) {
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /* ========= menu part start =========== */
+  .main_menu ul {
+    gap: 0px;
+  }
+  .common_btn {
+    padding: 12px 20px;
+  }
+  /* ========= Menu part end =========== */
+   /* ========= Banner part start =========== */
+   #banner {
+    background-position-x: 50%;
+  }
+  #counter {
+    margin-top: 20px;
+  }
+ /* ========= Banner part end =========== */
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+   /* ========= Common heading =========== */
+   .common_heading h2 {
+    font-size: 30px;
+  }
+  .common_heading p {
+    font-size: 16px;
+  }
+  .common_btn {
+    padding: 18px 29px;
+    border-radius: 50px;
+    font-size: 18px;
+    font-weight: 620;
+  }
+  /* ========= menu part start =========== */
+  .main_menu .navbar-brand {
+    width: 104px;
+  }
+  .icon_bar{
+    font-size: 33px;
+  }
+  .main_menu ul {
+    gap: 10px;
+    align-items: center;
+  }
+  .menu_btn {
+    display: flex;
+    justify-content: center;
+  }
+  /* ========= Menu part end =========== */
+  /* ========= Banner part start =========== */
+  #banner {
+    padding: 130px 0 80px;
+    background: #e0ecf059;
+  }
+  .banner_text h1 {
+    font-size: 40px;
+  }
+  .banner_text p {
+    font-size: 22px;
+  }
+  .banner_buttons {
+    gap: 24px;
+    flex-direction: row;
+  }
+  .banner_buttons .watch img {
+    width: 62px;
+  }
+  .banner_buttons .watch {
+    font-size: 20px;
+  }
+  /* ========= Banner part end =========== */
+  /* ========= Cart part start =========== */
+  .container, .container-md, .container-sm {
+    max-width: 100%;
+  }
+  
+  /* ========= Cart part end =========== */
+  /* ========= About company part start =========== */
+  #about_company {
+    padding: 80px 0;
+  }
+  .about_details {
+    margin-top: 24px;
+  }
+  .about_details h2 {
+    font-size: 34px;
+    padding: 12px 0 18px;
+  }
+  .about_details p {
+    font-size: 16px;
+  }
+  /* ========= About company part end =========== */
+  /* ========= Counter part start =========== */
+  .counter_content {
+    flex-direction: column;
+    align-items: center;
+  }
+  .counter_content .counter_items {
+    padding: 0;
+    text-align: center;
+    border-right: none;
+  }
+  .counter_content {
+    gap: 36px;
+  }
+  .counter_content .counter_items h3 {
+    font-size: 48px;
+  }
+  .counter_content .counter_items p {
+    font-size: 18px;
+  }
+  .counter_star {
+    bottom: 50%;
+  }
+  /* ========= Counter part end =========== */
+  /* ========= Service part start =========== */
+  #services {
+    padding: 80px 0;
+  }
+  .service_head {
+    width: 100%;
+  }
+  /* ========= Service part end =========== */
+  /* ========= chooseUs_details part start =========== */
+  #news {
+    padding: 20px 0 70px;
+  }
+  .chooseUs_details {
+    flex-direction: row;
+  }
+  .chooseUs_img {
+    width: 100%;
+    margin-top: 20px;
+  }
+  /* .projects_main {
+    position: static;
+    gap: 20px;
+  } */
+  #feedback {
+    padding: 0 0 80px;
+  }
+  /* ========= chooseUs_details part End =========== */
+   /* ========= project part start =========== */
+  .projects_main {
+    position: static;
+    row-gap: 20px;
+  }
+  /* ========= project part end =========== */
+  /* ========= News part start =========== */
+  .news_heading {
+    width: 100%;
+  }
+  #news {
+    padding: 20px 0 110px;
+  }
+  .news_heading h3::after {
+    left: 39%;
+  }
+  /* ========= News part end =========== */
+  /* ========= Footer part start =========== */
+
+  #footer {
+    padding: 80px 0 57px;
+  }
+  .footer_des {
+    font-size: 20px;
+  }
+  .footer_menu {
+    margin: 20px 0;
+  }
+  .footer_menu ul {
+    gap: 10px;
+  }
+  .footer_foot p,
+  .footer_foot ul li a {
+    font-size: 20px;
+  }
+  /* ========= Footer part end =========== */
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* ========= Common heading =========== */
+    .common_heading h2 {
+      font-size: 28px;
+    }
+    .common_heading p {
+      font-size: 16px;
+    }
+    .common_btn {
+      padding: 10px 13px;
+      border-radius: 40px;
+      font-size: 16px;
+      font-weight: 620;
+    }
+    /* ========= menu part start =========== */
+    .main_menu .navbar-brand {
+      width: 90px;
+    }
+    .main_menu ul {
+      gap: 10px;
+      align-items: center;
+    }
+    .menu_btn {
+      display: flex;
+      justify-content: center;
+    }
+    /* ========= Menu part end =========== */
+    /* ========= Banner part start =========== */
+    #banner {
+      padding: 130px 0 80px;
+      background: #e0ecf059;
+    }
+    .banner_text h1 {
+      font-size: 36px;
+    }
+    .banner_text p {
+      font-size: 17px;
+    }
+    .banner_buttons {
+      gap: 24px;
+      flex-direction: row;
+    }
+    .banner_buttons .watch img {
+      width: 45px;
+    }
+    .banner_buttons .watch {
+      font-size: 17px;
+    }
+    /* ========= Banner part end =========== */
+    /* ========= Cart part start =========== */
+    .about_image .cart {
+      padding: 0 10px 8px;
+    }
+    .about_image .cart p {
+      font-size: 30px;
+    }
+    .about_image .cart h4 {
+      font-size: 50px;
+      font-weight: 700;
+    }
+    /* ========= Cart part end =========== */
+    /* ========= About company part start =========== */
+    #about_company {
+      padding: 80px 0;
+    }
+    .about_details {
+      margin-top: 24px;
+    }
+    .about_details h2 {
+      font-size: 30px;
+      padding: 12px 0 18px;
+    }
+    .about_details p {
+      font-size: 14px;
+    }
+    /* ========= About company part end =========== */
+    /* ========= Counter part start =========== */
+    .counter_content {
+      flex-direction: column;
+      align-items: center;
+    }
+    .counter_content .counter_items {
+      padding: 0;
+      text-align: center;
+      border-right: none;
+    }
+    .counter_content {
+      gap: 30px;
+    }
+    .counter_content .counter_items h3 {
+      font-size: 43px;
+    }
+    .counter_content .counter_items p {
+      font-size: 16px;
+    }
+    .counter_star {
+      bottom: 76%;
+    }
+    /* ========= Counter part end =========== */
+    /* ========= Service part start =========== */
+    #services {
+      padding: 80px 0;
+    }
+    .service_head {
+      width: 100%;
+    }
+    /* ========= Service part end =========== */
+    /* ========= chooseUs_details part start =========== */
+    #news {
+      padding: 20px 0 70px;
+    }
+    .chooseUs_details {
+      flex-direction: row;
+    }
+    .chooseUs_img {
+      width: 100%;
+      margin-top: 20px;
+    }
+    .projects_main {
+      position: static;
+      gap: 20px;
+    }
+    #feedback {
+      padding: 0 0 80px;
+    }
+    /* ========= chooseUs_details part End =========== */
+    /* ========= News part start =========== */
+    .news_heading {
+      width: 100%;
+    }
+    #news {
+      padding: 20px 0 110px;
+    }
+    .news_heading h3::after {
+      left: 39%;
+    }
+    #news .row {
+      gap: 20px;
+    }
+    /* ========= News part end =========== */
+    /* ========= Footer part start =========== */
+  
+    #footer {
+      padding: 80px 0 57px;
+    }
+    .footer_des {
+      font-size: 15px;
+    }
+    .footer_menu {
+      margin: 20px 0;
+    }
+    .footer_menu ul {
+      gap: 10px;
+    }
+    .footer_foot p,
+    .footer_foot ul li a {
+      font-size: 12px;
+    }
+    /* ========= Footer part end =========== */
+}
+
+@media (max-width: 575.98px) {
+  /* ========= Common heading =========== */
+  .common_heading h2 {
+    font-size: 24px;
+  }
+  .common_heading p {
+    font-size: 14px;
+  }
+  .common_btn {
+    padding: 10px 13px;
+    border-radius: 40px;
+    font-size: 16px;
+    font-weight: 620;
+  }
+  /* ========= menu part start =========== */
+  .main_menu .navbar-brand {
+    width: 85px;
+  }
+  .main_menu ul {
+    gap: 10px;
+    align-items: center;
+  }
+  .menu_btn {
+    display: flex;
+    justify-content: center;
+  }
+  /* ========= Menu part end =========== */
+  /* ========= Banner part start =========== */
+  #banner {
+    padding: 130px 0 80px;
+    background: #e0ecf059;
+  }
+  .banner_text h1 {
+    font-size: 36px;
+  }
+  .banner_text p {
+    font-size: 17px;
+  }
+  .banner_buttons {
+    gap: 24px;
+    flex-direction: column;
+  }
+  .banner_buttons .watch img {
+    width: 45px;
+  }
+  .banner_buttons .watch {
+    font-size: 17px;
+  }
+  /* ========= Banner part end =========== */
+  /* ========= Cart part start =========== */
+  .about_image .cart {
+    padding: 0 10px 8px;
+  }
+  .about_image .cart p {
+    font-size: 30px;
+  }
+  .about_image .cart h4 {
+    font-size: 50px;
+    font-weight: 700;
+  }
+  /* ========= Cart part end =========== */
+  /* ========= About company part start =========== */
+  #about_company {
+    padding: 80px 0;
+  }
+  .about_details {
+    margin-top: 24px;
+  }
+  .about_details h2 {
+    font-size: 26px;
+    padding: 12px 0 18px;
+  }
+  .about_details p {
+    font-size: 12px;
+  }
+  /* ========= About company part end =========== */
+  /* ========= Counter part start =========== */
+  .counter_content {
+    flex-direction: column;
+    align-items: center;
+  }
+  .counter_content .counter_items {
+    padding: 0;
+    text-align: center;
+    border-right: none;
+  }
+  .counter_content {
+    gap: 20px;
+  }
+  .counter_content .counter_items h3 {
+    font-size: 43px;
+  }
+  .counter_content .counter_items p {
+    font-size: 16px;
+  }
+  .counter_star {
+    bottom: 76%;
+  }
+  /* ========= Counter part end =========== */
+  /* ========= Service part start =========== */
+  #services {
+    padding: 80px 0;
+  }
+  .service_head {
+    width: 100%;
+  }
+  /* ========= Service part end =========== */
+  /* ========= chooseUs_details part start =========== */
+  #news {
+    padding: 20px 0 70px;
+  }
+  .chooseUs_details {
+    flex-direction: column;
+  }
+  .chooseUs_img {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .projects_main {
+    position: static;
+    gap: 20px;
+  }
+  #feedback {
+    padding: 0 0 80px;
+  }
+  /* ========= chooseUs_details part End =========== */
+  /* ========= News part start =========== */
+  .news_heading {
+    width: 100%;
+  }
+  #news {
+    padding: 20px 0 110px;
+  }
+  .news_heading h3::after {
+    left: 39%;
+  }
+  #news .row {
+    gap: 20px;
+  }
+  /* ========= News part end =========== */
+  /* ========= Footer part start =========== */
+
+  #footer {
+    padding: 80px 0 57px;
+  }
+  .footer_des {
+    font-size: 15px;
+  }
+  .footer_menu {
+    margin: 20px 0;
+  }
+  .footer_menu ul {
+    gap: 10px;
+  }
+  .footer_foot p,
+  .footer_foot ul li a {
+    font-size: 12px;
+  }
+  /* ========= Footer part end =========== */
+}
